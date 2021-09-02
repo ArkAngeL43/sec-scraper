@@ -1,0 +1,7 @@
+on the frst string type the hosts world wide web link 
+
+EX ===> www.google.com 
+
+then the second input type the base url 
+
+EX ==> https://google.com or https://www.google.com 
